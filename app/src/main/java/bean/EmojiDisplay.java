@@ -1,0 +1,67 @@
+package bean;
+
+
+
+/**
+ * Created by zhangyang on 17/2/27.
+ */
+
+public class EmojiDisplay {
+    public static final Emoji[] DATA = new Emoji[]{
+            Emoji.fromCodePoint(0x1f604),
+            Emoji.fromCodePoint(0x1f603),
+            Emoji.fromCodePoint(0x1f600),
+            Emoji.fromCodePoint(0x1f60a),
+            Emoji.fromChar((char) 0x263a),
+            Emoji.fromCodePoint(0x1f609),
+            Emoji.fromCodePoint(0x1f60d),
+            Emoji.fromCodePoint(0x1f618),
+            Emoji.fromCodePoint(0x1f61a),
+            Emoji.fromCodePoint(0x1f617),
+            Emoji.fromCodePoint(0x1f619),
+            Emoji.fromCodePoint(0x1f61c),
+            Emoji.fromCodePoint(0x1f61d),
+            Emoji.fromCodePoint(0x1f61b),
+            Emoji.fromCodePoint(0x1f633),
+            Emoji.fromCodePoint(0x1f601),
+            Emoji.fromCodePoint(0x1f614),
+            Emoji.fromCodePoint(0x1f60c),
+            Emoji.fromCodePoint(0x1f612),
+            Emoji.fromCodePoint(0x1f61e),
+            Emoji.fromCodePoint(0x1f623),
+            Emoji.fromCodePoint(0x1f622),
+            Emoji.fromCodePoint(0x1f602),
+            Emoji.fromCodePoint(0x1f62d),
+            Emoji.fromCodePoint(0x1f62a),
+            Emoji.fromCodePoint(0x1f625),
+            Emoji.fromCodePoint(0x1f4bc),
+            Emoji.fromCodePoint(0x1f45c),
+            Emoji.fromCodePoint(0x1f45d),
+            Emoji.fromCodePoint(0x1f45b),
+            Emoji.fromCodePoint(0x1f453),
+            Emoji.fromCodePoint(0x1f380),
+            Emoji.fromCodePoint(0x1f302),
+            Emoji.fromCodePoint(0x1f484),
+            Emoji.fromCodePoint(0x1f49b),
+            Emoji.fromCodePoint(0x1f499),
+            Emoji.fromCodePoint(0x1f49c),
+            Emoji.fromCodePoint(0x1f49a),
+            Emoji.fromChar((char) 0x2764),
+            Emoji.fromCodePoint(0x1f494),
+            Emoji.fromCodePoint(0x1f497),
+            Emoji.fromCodePoint(0x1f493),
+            Emoji.fromCodePoint(0x1f495),
+            Emoji.fromCodePoint(0x1f496),
+            Emoji.fromCodePoint(0x1f49e),
+            Emoji.fromCodePoint(0x1f498),
+            Emoji.fromCodePoint(0x1f48c),
+            Emoji.fromCodePoint(0x1f48b),
+            Emoji.fromCodePoint(0x1f48d),
+            Emoji.fromCodePoint(0x1f48e),
+            Emoji.fromCodePoint(0x1f464),
+            Emoji.fromCodePoint(0x1f465),
+            Emoji.fromCodePoint(0x1f4ac),
+            Emoji.fromCodePoint(0x1f463),
+            Emoji.fromCodePoint(0x1f4ad),
+    };
+}
